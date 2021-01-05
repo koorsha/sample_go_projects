@@ -1,2 +1,5 @@
-# sample_go_projects
- My sample go projects
+# goProjects
+ My go projects
+
+ # Restore Packages
+** `go get ./...`

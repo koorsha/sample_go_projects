@@ -13,3 +13,14 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# dependencies
+/node_modules
+.idea/modules.xml
+.idea/goProjects.iml
+.idea/vcs.xml
+*.xml
