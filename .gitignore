@@ -19,8 +19,42 @@
 *.sln.iml
 
 # dependencies
-/node_modules
+node_modules/
 .idea/modules.xml
 .idea/goProjects.iml
 .idea/vcs.xml
 *.xml
+
+
+# DNX
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+*.pptx
+*.zip
+*.rar
